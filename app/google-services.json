@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1086075722686",
+    "firebase_url": "https://api-7915856269772108859-638520.firebaseio.com",
+    "project_id": "api-7915856269772108859-638520",
+    "storage_bucket": "api-7915856269772108859-638520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086075722686:android:79fbe710f7d4a9ab05f7ef",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGuypEcBMsuMySYY2UHZsxMm4vlGloFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086075722686:android:8e66bf5aeef4ee6005f7ef",
+        "android_client_info": {
+          "package_name": "es.upm.miw.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGuypEcBMsuMySYY2UHZsxMm4vlGloFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086075722686:android:addde2affc5f24cd05f7ef",
+        "android_client_info": {
+          "package_name": "es.upm.miw.windspeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGuypEcBMsuMySYY2UHZsxMm4vlGloFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086075722686:android:54d40a7d6f4525af05f7ef",
+        "android_client_info": {
+          "package_name": "miw.upm.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086075722686-pf3ub5lmojbbj34g22lfhmqlvfitfuuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "miw.upm.friendlychat",
+            "certificate_hash": "c61ce198750ccc0763c318f4daf6a0efa6744840"
+          }
+        },
+        {
+          "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGuypEcBMsuMySYY2UHZsxMm4vlGloFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086075722686-nvcba1q3me4e3ischilq3k1igf6cer37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

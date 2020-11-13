@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Toldo a Salvo</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_button_access">LOGIN</string>
+    <string name="auth_button_register">REGISTRAR USUARIO</string>
+    <string name="auth_button_already_registered">YA ESTOY REGISTRADO</string>
+    <string name="auth_edit_text_email">Email</string>
+    <string name="auth_edit_text_password">Contraseña</string>
+    <string name="auth_edit_text_name">Nombre</string>
+
+    <!-- Home Screen -->
+    <string name="home_button_cerrar_sesion">Cerrar Sesión</string>
+    <string name="home_text_view_email">Email</string>
+    <string name="home_edit_text_location">Location</string>
+    <string name="home_buscar">Buscar</string>
+
+    <!-- Aeris API -->
+    <string name="aeris_client_id">Yt0mbQTtNLov02TX0K8Qd</string>
+    <string name="aeris_client_secret">v3XB3y4TJmWHmJxC8atrqkyX7FE27eW3R5XANbHs</string>
+
+
+    <!-- Login Screen -->
+    <string name="login_button_start_session">INICIAR SESIÓN</string>
+</resources>
